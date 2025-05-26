@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-27T00:16:56 IST" name="Default suite" finished-at="2025-05-27T00:17:02 IST" duration-ms="5316">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T00:16:56 IST" name="Default test" finished-at="2025-05-27T00:17:02 IST" duration-ms="5316">
+      <class name="com.Test.Reg_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Test.Reg_Test@1f59a598]" started-at="2025-05-27T00:16:56 IST" name="setUp" finished-at="2025-05-27T00:17:00 IST" duration-ms="3325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="withValidloginTest()[pri:0, instance:com.Test.Reg_Test@1f59a598]" started-at="2025-05-27T00:17:00 IST" name="withValidloginTest" finished-at="2025-05-27T00:17:01 IST" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withValidloginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.Test.Reg_Test@1f59a598]" started-at="2025-05-27T00:17:01 IST" name="TearDown" finished-at="2025-05-27T00:17:02 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.Test.Reg_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
